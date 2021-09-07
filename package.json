@@ -232,7 +232,7 @@
     "@typescript-eslint/eslint-plugin": "^4.24.0",
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.26.0",
-    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-prettier": "^3.4.1",
     "glob": "^7.1.7",
     "mocha": "^8.4.0",
     "prettier": "^2.3.0",
